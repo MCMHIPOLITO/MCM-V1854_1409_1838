@@ -158,6 +158,5 @@ export function calculateWPI(
     WPI_AWAY: Number(wpiAway.toFixed(1)),
   };
 }
-;
-}
+
 
